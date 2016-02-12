@@ -1,4 +1,5 @@
 from flask import Blueprint
+
 from flask_celery_sample.index.tasks import hello
 
 blueprint = Blueprint('index', __name__)

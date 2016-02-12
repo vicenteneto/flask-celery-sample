@@ -1,6 +1,7 @@
 #!/usr/bin/env python
-from flask_celery_sample.app import create_app
 from flask.ext.script import Manager
+
+from flask_celery_sample.app import create_app
 
 manager = Manager(create_app())
 
