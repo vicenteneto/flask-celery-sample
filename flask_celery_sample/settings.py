@@ -1,3 +1,3 @@
-TASKS = [
-    'flask_celery_sample.index.tasks'
+PACKAGES = [
+    'flask_celery_sample.index'
 ]
