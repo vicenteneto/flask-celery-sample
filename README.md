@@ -1,10 +1,15 @@
 # flask-celery-sample
 
-[![Build Status](https://travis-ci.org/vicenteneto/flask-celery-sample.svg?branch=master)](https://travis-ci.org/vicenteneto/flask-celery-sample)
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/vicenteneto/flask-celery-sample/blob/master/LICENSE)
 
 This is a simple REST project using [Flask](http://flask.pocoo.org/) and [Celery](http://www.celeryproject.org/).
+
+## Flask
+
 Flask is a microframework for [Python](https://www.python.org/) based on [Werkzeug](http://werkzeug.pocoo.org/) and [Jinja 2](http://jinja.pocoo.org/docs/dev/).
+
+## Celery
+
 Celery is an asynchronous task queue/job queue based on distributed message passing.
 
 ## Table of contents
