@@ -2,7 +2,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/vicenteneto/flask-celery-sample/blob/master/LICENSE)
 
-This is a simple REST project using [Flask](http://flask.pocoo.org/) and [Celery](http://www.celeryproject.org/).
+This is a simple REST project using [Flask](http://flask.pocoo.org/) and [Celery](http://www.celeryproject.org/). Based on this blog article [Using Celery with Flask](http://blog.miguelgrinberg.com/post/using-celery-with-flask).
 
 ## Flask
 
